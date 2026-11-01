@@ -1,0 +1,2 @@
+strategy,interval_ms,channel_delay_ms,configured_loss_percent,samples,transmission_attempts,delivered_packets,dropped_packets,average_aoi_s,average_position_error_m,overhead_bytes_per_sec,pdr_percent
+periodic,100,50,5.0,19492,9752,9305,447,0.07969592685808206,0.9063967096202536,8126.666666666667,95.4163248564397

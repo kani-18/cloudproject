@@ -1,0 +1,2 @@
+strategy,interval_ms,delay_ms,configured_loss_percent,samples_with_twin,transmission_attempts,delivered_packets,dropped_packets,pdr_percent,average_aoi_s,p95_aoi_s,maximum_aoi_s,average_position_error_m,maximum_position_error_m,average_speed_error_mps,average_heading_error_deg,overhead_bytes_per_sec
+adaptive,,50,5.0,111850,57627,54761,2866,95.0266368195464,0.10963030844881573,0.3999999999999986,0.6500000000000057,0.8983647574113321,5.940433568315768,0.11320314702046613,0.5289875065646085,48022.5

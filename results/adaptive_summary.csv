@@ -1,0 +1,2 @@
+strategy,samples,transmission_attempts,delivered_packets,average_aoi_s,average_position_error_m,overhead_bytes_per_sec,pdr_percent
+AoI-aware-adaptive,19492,16297,16297,0.04097835009234585,0.27894399714662316,13580.833333333334,100.0

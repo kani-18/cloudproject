@@ -1,0 +1,2 @@
+strategy,samples,transmission_attempts,delivered_packets,average_aoi_s,average_position_error_m,overhead_bytes_per_sec,pdr_percent
+event-triggered,19492,2416,2416,0.20863431151241538,2.12843241326698,2013.3333333333333,100.0
